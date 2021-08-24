@@ -90,7 +90,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Another awesome feature
+      - title: Integrate easily upstream and downstream
         content: >-
           ## Lorem ipsum
 
