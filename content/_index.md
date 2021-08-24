@@ -91,17 +91,20 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Integrate easily upstream and downstream
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Embed into ecommerce checkout gateways to launch “Buy Now Pay Later”
+          service, provide deeper integrations with your existing digital
+          channels and ensure secure data exchange with your backend and
+          analytics systems
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Powerful APIs for custom front-end integrations
 
 
-          - Lorem ipsum
+          *   Secure interfaces for data warehousing and reporting
 
-          - dolor sit amet
+
+          *   Custom integrations with marketing solutions
         image_alt: lorem-ipsum
         actions:
           - label: Learn more
