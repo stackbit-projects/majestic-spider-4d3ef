@@ -77,7 +77,7 @@ sections:
           - dolor sit amet
         image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
+          - label: Learn more
             url: '#'
             style: secondary
             has_icon: false
