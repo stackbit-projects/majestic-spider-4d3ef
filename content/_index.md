@@ -78,7 +78,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - label: Learn more
-            url: '#'
+            url: /features
             style: secondary
             has_icon: false
             icon: arrow-left
