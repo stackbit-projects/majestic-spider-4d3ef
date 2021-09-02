@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: test
+    title: Launch competitive online lending products in weeks
     content: >
       Lending Cloud Platform combines the best of SaaS and custom development
       worlds by ensuring the speed of go to market and adaptability to your
